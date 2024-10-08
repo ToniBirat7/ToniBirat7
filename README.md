@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ToniBirat7
-- 👀 I’m interested in Data Science
+- 👀 Build From Scratch, That's My Motto
 - 🌱 I’m currently learning Django, ML, Game Dev
 
 <!---
