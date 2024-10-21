@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ToniBirat7
-- 👀 Build From Scratch, That's My Motto
-- 🌱 I’m currently learning Django, ML, Game Dev
+- 👀 Build From Scratch, I want to build a computer from scratch. Fixing each transistor to create a bit. That's My Motto. Crazy!
+- 🌱 I’m currently learning Backend Engineering, AI, Game Dev, Frontend
 
 <!---
 ToniBirat7/ToniBirat7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
