@@ -3,7 +3,7 @@
 <h1 align="center">Hey there 👋 I'm ToniBirat</h1>
 
 <p align="center">
-  <em>Build fairly. Smile honestly. Code like a hymn. Win spiritually.</em>
+  <em>Build fairly. Smile honestly. Code like a hymn. and Win.</em>
 </p>
 
 <p align="center">
