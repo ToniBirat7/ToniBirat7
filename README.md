@@ -87,8 +87,8 @@ I'm here to **understand them**, **design them**, **breathe life into them**—*
 
 > *"Want to win fairly, with seriousness, with love, with smile, with the divinity within me."*
 
-You see code, it is not just logic—it's a unseen frequency that tunes into reality.  
-Life? It’s not just about 0s and 1s—it’s about **balance**, **depth**, and **knowing your trueself**
+You see code, it is not just logic; it's a unseen frequency that tunes into reality.  
+Life? It’s not just about 0s and 1s, it’s about **balance**, **depth**, and **knowing your trueself**
 
 Sometimes, I pause while debugging… and ponder:  
 **What is this function of life?**  
