@@ -62,7 +62,7 @@
 > **|| अहम् ब्रह्मास्मि ||**
 
 🙏 I'm **Birat Gautam**, also known as `@ToniBirat7` in duality. <br>
-⚽ Yes, **Toni**—inspired by the calm, composed, and precise midfielder **Toni Kroos**. If code were football, I’d be playing deep; building from the back, dictating the flow.
+⚽ Yes, **Toni**—inspired by the calm, composed, and disciplined midfielder **Toni Kroos**. If code were football, I’d be playing deep; building from the back, dictating the flow.
 
 🧠 What am I doing?
 
