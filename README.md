@@ -67,7 +67,7 @@
 🧠 What am I doing?
 
 - Want to build a **computer from scratch**—yes, I’m *literally* talking **flip-flops and transistors**.
-- 🌱 Currently learning **Backend Engineering**, **AI**, **Fullstack Development** and **Socjet Programming**
+- 🌱 Currently learning **Backend Engineering**, **AI**, **Fullstack Development** and **Socket Programming**
 - 🧩 Passioante about **System Design**, **DSA**, and everything that makes machines “tick”.
 
 ---
