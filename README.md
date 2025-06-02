@@ -58,10 +58,6 @@
   <!-- DevOps & Containers -->
   <img src="https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
 
-  <br/>
-
-  <!-- Problem Solving / Competitive Programming -->
-  <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
 
 </p>
 
