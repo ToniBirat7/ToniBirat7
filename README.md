@@ -118,7 +118,7 @@ Sometimes, I pause while debugging… and ponder:
 ---
 
 <p align="center">
-  🧘‍♂️ <strong>Build fairly. Smile honestly. Code like hymn. Win spiritually.</strong> 🧘‍♀️
+  🧘‍♂️ <strong>Build fairly. Smile honestly. Code like it's hymn. Win spiritually.</strong> 🧘‍♀️
 </p>
 
 ---
