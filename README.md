@@ -61,8 +61,6 @@
 
 </p>
 
-![Repositories](https://img.shields.io/badge/Total_Repos-70-blue)
-
 
 ---
 
