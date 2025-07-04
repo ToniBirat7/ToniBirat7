@@ -103,7 +103,7 @@ Every bug I solve feels like **untangling cosmic chaos**.
 ---
 
 <p align="center">
-  <strong>Build fairly. Smile honestly. Code like it's hymn, and win.</strong> 
+  Build fairly. Smile honestly. Code like it's hymn, and win. 
 </p>
 
 ---
