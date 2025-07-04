@@ -85,8 +85,9 @@ What am I doing?
 
 Sounds insane, right? That’s the point. Sanity doesn’t innovate.
 
-I'm not here just to use computers.  
-I'm want to **understand them**, **design them**, **breathe life into them**—**bit by bit**, in silence.
+I'm not here just to use computers.
+
+I want to **understand them**, **design them**, **breathe life into them**—**bit by bit**, in silence.
 
 ---
 
