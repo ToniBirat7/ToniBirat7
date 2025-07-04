@@ -61,12 +61,10 @@
 
 </p>
 
-![Repositories](https://img.shields.io/badge/Total_Repos-53-blue)
+![Repositories](https://img.shields.io/badge/Total_Repos-70-blue)
 
 
 ---
-
-## Who am I?
 
 > **|| अहम् ब्रह्मास्मि ||**
 
