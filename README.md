@@ -90,8 +90,6 @@ I want to **understand them**, **design them**, **breathe life into them**—**b
 
 ---
 
-## Spiritual Bit (0)
-
 > *"Want to win fairly, with seriousness, with love, with smile, with the divinity within me."*
 
 You see code, it is not just logic; it's a unseen frequency that tunes into reality.  
