@@ -66,22 +66,22 @@
 
 ---
 
-## ⚙️ Who am I?
+## Who am I?
 
 > **|| अहम् ब्रह्मास्मि ||**
 
 🙏 It's me **Birat Gautam**, also known as `@ToniBirat7` in duality. <br>
 ⚽ Yes, **Toni**—inspired by the calm, composed, and disciplined midfielder **Toni Kroos**. If code were football, I’d be playing deep; building from the back, dictating the flow.
 
-🧠 What am I doing?
+What am I doing?
 
 - Want to build a **computer from scratch**—yes, I’m *literally* talking **flip-flops and transistors**.
-- 🌱 Currently learning **Backend Engineering**, **AI**, **Fullstack Development** and **Socket Programming**
-- 🧩 Passioante about **System Design**, **DSA**, and everything that makes machines “tick”.
+- Currently learning **Backend Engineering**, **AI**, **Fullstack Development** and **Socket Programming**
+- Passioante about **System Design**, **DSA**, and everything that makes machines “tick”.
 
 ---
 
-## 🛠️ Motto
+<hr>
 
 > *"Fix each transistor to create a bit."*
 
@@ -92,7 +92,7 @@ I'm here to **understand them**, **design them**, **breathe life into them**—*
 
 ---
 
-## ☯️ Spiritual Bit (0)
+## Spiritual Bit (0)
 
 > *"Want to win fairly, with seriousness, with love, with smile, with the divinity within me."*
 
@@ -105,24 +105,21 @@ Sometimes, I pause while debugging… and ponder:
 
 ---
 
-## 🎮 Playful Realities
+I love building from scratch because **starting from nothing is the closest you can get to creation**.  
+Every bug I solve feels like **untangling cosmic chaos**.
 
-👾 I love building from scratch because **starting from nothing is the closest you can get to creation**.  
-🌌 Every bug I solve feels like **untangling cosmic chaos**.
-
-🧠 Learning is the game. Curiosity is the compass.  
 ---
 
-## 🔮 Are You Still Reading?
+## Are You Still Reading?
 
 > Maybe you didn’t come here to learn about code.  
 > Maybe you’re here for a reason beyond algorithms.  
 > So… ask yourself:
 >
-> 🌱 **What are you building?**  
-> ⚙️ **Why are you building it?**  
-> 💡 **What does your code say about you?**  
-> 🕊️ **And when the terminal clears, what remains?**
+> **What are you building?**  
+> **Why are you building it?**  
+> **What does your code say about you?**  
+> **And when the terminal clears, what remains?**
 
 ---
 
