@@ -118,11 +118,11 @@ Every bug I solve feels like **untangling cosmic chaos**.
 ---
 
 <p align="center">
-  🧘‍♂️ <strong>Build fairly. Smile honestly. Code like it's hymn, and win.</strong> 🧘‍♀️
+  <strong>Build fairly. Smile honestly. Code like it's hymn, and win.</strong> 
 </p>
 
 ---
 
 <p align="center">
-  🌐 <em>Let’s connect this universe, one bit at a time.</em>
+  <em>Let’s connect this universe, one bit at a time to make it a better place to live.</em>
 </p>
