@@ -3,7 +3,7 @@
 <h1 align="center">Namaste!, Hi!</h1>
 
 <p align="center">
-  <em>Build fairly. Smile honestly. Code like it's hymn and Win.</em>
+  <em>Build. Smile honestly. Code like it's hymn and Win.</em>
 </p>
 
 <p align="center">
@@ -58,9 +58,9 @@ It's me **Birat Gautam**, a.k.a `@ToniBirat7` in duality. <br>
 
 What am I doing?
 
-- Want to build a **computer from scratch**—yes, I’m *literally* talking **flip-flops and transistors**.
-- Currently learning **Backend Engineering**, **AI**, **Fullstack Development** and **Socket Programming**
-- Passioante about **System Design**, **DSA**, and everything that makes machines “tick”.
+- Pursuing Bsc (Hons) Computer Science with AI [@BirminghamCityUniversity](https://www.bcu.ac.uk/)
+- Want to understand the working of a **computer from scratch** yes, I’m *literally* talking **flip-flops and transistors**
+- Currently learning **Backend Engineering**, **AI**, **Fullstack Development** and **DSA**
 
 ---
 
@@ -97,13 +97,12 @@ Every bug I solve feels like **untangling cosmic chaos**.
 >
 > **What are you building?**  
 > **Why are you building it?**  
-> **What does your code say about you?**  
 > **And when the terminal clears, what remains?**
 
 ---
 
 <p align="center">
-  Build fairly. Smile honestly. Code like it's hymn, and win. 
+  Build. Smile honestly. Code like it's hymn, and win. 
 </p>
 
 ---
