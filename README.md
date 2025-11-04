@@ -77,14 +77,11 @@ Life? It’s not just about 0s and 1s, it’s about **balance**, **depth**, and 
 ---
 
 I love exploring things from scratch because **starting from nothing is the closest you can get to creation**.  
-Every bug I solve feels like **untangling cosmic chaos**.
 
 ---
 
 ## Are You Still Reading?
-
-> Maybe you didn’t come here to learn about code.  
-> Maybe you’re here for a reason beyond algorithms.  
+ 
 > So… ask yourself:
 >
 > **What are you building?**  
@@ -94,5 +91,5 @@ Every bug I solve feels like **untangling cosmic chaos**.
 ---
 
 <p align="center">
-  <em>Let’s connect this universe, one bit at a time to make it a better place to live.</em>
+  <em>Happy Coding</em>
 </p>
