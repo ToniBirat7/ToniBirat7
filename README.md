@@ -3,7 +3,7 @@
 <h1 align="center">Namaste!, Hi!</h1>
 
 <p align="center">
-  <em>Build. Smile honestly. Code like it's hymn and Win.</em>
+  <em>Build. Smile honestly. Code and Win.</em>
 </p>
 
 <p align="center">
@@ -51,8 +51,6 @@
 
 ---
 
-> **|| अहम् ब्रह्मास्मि ||**
-
 It's me **Birat Gautam**, a.k.a `@ToniBirat7` in duality. <br>
 ⚽ Yes, **Toni** ; inspired by the calm, composed, and disciplined midfielder **Toni Kroos**. If code were football, I’d be playing deep building from the back, dictating the flow.
 
@@ -69,22 +67,16 @@ What am I doing?
 Sounds insane, right? That’s the point. Sanity doesn’t innovate.
 
 I'm not here just to use computers.
-I want to **understand them**, **design them**, **breathe life into them**—**bit by bit**, in silence.
+I want to **understand them**, **design them**, **breathe life into them**—**bit by bit**.
 
 ---
-
-> *"Want to win fairly, with seriousness, with love, with smile, with the divinity within me."*
 
 You see code, it is not just logic; it's a unseen frequency that tunes into reality.  
 Life? It’s not just about 0s and 1s, it’s about **balance**, **depth**, and **knowing your trueself**
 
-Sometimes, I pause while debugging… and ponder:  
-**What is this function of life?**  
-**Is recursion just karma?**
-
 ---
 
-I love building from scratch because **starting from nothing is the closest you can get to creation**.  
+I love exploring things from scratch because **starting from nothing is the closest you can get to creation**.  
 Every bug I solve feels like **untangling cosmic chaos**.
 
 ---
@@ -98,12 +90,6 @@ Every bug I solve feels like **untangling cosmic chaos**.
 > **What are you building?**  
 > **Why are you building it?**  
 > **And when the terminal clears, what remains?**
-
----
-
-<p align="center">
-  Build. Smile honestly. Code like it's hymn, and win. 
-</p>
 
 ---
 
