@@ -58,7 +58,7 @@ What am I doing?
 
 - Pursuing Bsc (Hons) Computer Science with AI [@BirminghamCityUniversity](https://www.bcu.ac.uk/)
 - Want to understand the working of a **computer from scratch** yes, I’m *literally* talking **flip-flops and transistors**
-- Currently learning **Backend Engineering**, **AI**, **Fullstack Development** and **DSA**
+- Current Interest **AI**, **Fullstack Development** and **DSA**
 
 ---
 
