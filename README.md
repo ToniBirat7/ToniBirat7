@@ -1,6 +1,6 @@
 <!-- README.md -->
 
-<h1 align="center">Namaste!, Hi!</h1>
+**Namaste!, Hi!**
 
 <p align="center">
   <em>Build. Smile honestly. Code and Win.</em>
