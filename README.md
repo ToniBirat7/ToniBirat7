@@ -35,8 +35,6 @@ Life? It’s not just about 0s and 1s, it’s about **balance**, **depth**, and 
 
 I love exploring things from scratch because **starting from nothing is the closest you can get to creation**.  
 
----
-
 ## Are You Still Reading?
  
 > So… ask yourself:
