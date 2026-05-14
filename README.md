@@ -3,7 +3,7 @@
 **Namaste!, Hi!**
 
 <p align="center">
-  <em>Build. Smile honestly. Code and Win.</em>
+  <em>Build. Smile honestly. Code for Better</em>
 </p>
 
 It's me **Birat Gautam**, a.k.a `@ToniBirat7` in duality. <br>
